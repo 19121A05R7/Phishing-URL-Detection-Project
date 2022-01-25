@@ -1,1 +1,1 @@
-# Phishing-URL-Detection-Project
+# Phishing Websites Detection using Logistic Regression
